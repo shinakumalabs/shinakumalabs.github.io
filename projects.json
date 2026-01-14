@@ -1,0 +1,113 @@
+[
+  {
+    "id": "expensex",
+    "name": "ExpenseX",
+    "suffix": "",
+    "tagline": "Track locally, keep safely. Your financial data stays on your device, not in the cloud.",
+    "category": "Mobile App",
+    "type": "Mobile",
+    "typeLabel": "Local-First Expense Tracker",
+    "description": "A privacy-focused mobile application for tracking expenses and income completely offline.",
+    "detailedDescription": "Most expense trackers upload your sensitive financial details to remote servers. ExpenseX keeps everything 100% on your device. No accounts, no cloud sync, no data mining. Just pure, personal finance tracking.",
+    "image": "/expensex_logo.svg",
+    "initial": "X",
+    "version": "v1.0.1",
+    "rating": "4.9/5.0",
+    "googlePlayLink": "#",
+    "detailLabel": "The Philosophy",
+    "headline": "Cloud services are <span class=\"line-through decoration-primary decoration-4 text-charcoal/40\">intrusive</span>.<br/>You need <span class=\"text-accent\">Private Control</span>.",
+    "status": "Production Ready",
+    "platform": "Play Store",
+    "platformIcon": "android",
+    "tags": ["ReactNative", "Sqlite", "Privacy"],
+    "stats": [
+      { "label": "Offline", "value": "100%" },
+      { "label": "Sync Latency", "value": "0s" },
+      { "label": "Database", "value": "Local" },
+      { "label": "Subscriptions", "value": "0" }
+    ],
+    "detailedFeatures": [
+      {
+        "title": "Day-to-Day Tracking",
+        "icon": "receipt_long",
+        "text": "Effortlessly log every income and expense. Categorize transactions instantly to keep your daily finances organized and clear."
+      },
+      {
+        "title": "Monthly Reports",
+        "icon": "analytics",
+        "text": "Visualize your spending habits with comprehensive monthly reports. Understand where your money goes with clear, locally-generated charts."
+      },
+      {
+        "title": "Budget Management",
+        "icon": "account_balance_wallet",
+        "text": "Set strict budgets for different categories. Get alerts when you're nearing your limits and stay on track with your financial goals."
+      },
+      {
+        "title": "Payment Methods",
+        "icon": "payments",
+        "text": "Track spending across cash, credit cards, and bank transfers. See exactly which payment method you use most frequently."
+      },
+      {
+        "title": "Excel Import/Export",
+        "icon": "table_view",
+        "text": "Take control of your data. Easily export your logs to Excel for detailed analysis or import legacy data to get started immediately."
+      },
+      {
+        "title": "Device Secure",
+        "icon": "smartphone",
+        "text": "Your data never leaves your phone. Security is guaranteed by your device's physical access controls and OS-level sandboxing."
+      }
+    ],
+    "securityInfo": {
+      "mainIcon": "gpp_good",
+      "label": "Local Architecture",
+      "headline": "Your Device.<br/><span class=\"text-gray-500\">Your Safe.</span>",
+      "points": [
+        {
+          "icon": "sd_storage",
+          "title": "Local Storage Only",
+          "text": "Data is stored exclusively on your device's internal memory. It requires absolutely no internet connection to function."
+        },
+        {
+          "icon": "lock_person",
+          "title": "Physical Access Security",
+          "text": "Your financial records are as secure as your phone itself. Access is restricted by your device's lock screen pattern or biometrics."
+        }
+      ],
+      "warning": {
+        "title": "Backup Responsibility",
+        "text": "Since we do not store your data on cloud servers, you are responsible for creating local backups (via Excel export) to prevent data loss if your device is lost or damaged."
+      },
+      "auditLabel": "Privacy Audit",
+      "checks": [
+        { "label": "Internet Permission", "status": "REVOKED", "highlight": true },
+        { "label": "Cloud Sync", "status": "Disabled", "highlight": false },
+        { "label": "Ad Tracking", "status": "None", "highlight": false },
+        { "label": "Data Location", "status": "Local Device", "highlight": false }
+      ],
+      "badge": "https://lh3.googleusercontent.com/aida-public/AB6AXuD1xY1SIHn0zgCFUO9-g82NlWb3CGodyBYMf2qXEE_nV6tSdb6MQhHEM6uM6ITZ-QZ8WSoiNuPVo0M97KPkRdMjqehv91KqW6Zr2-hfgMLsW3i9sCjOjr76prASXMhbyeCCyACiOnePLw0UkztcipRbl1NyGtcpSmnhhi0AeVMIN3u_7tSY0nTQR99pgBdH4qJzW9_tjZWHtciVoSqKxEBkcrA300zvUIcphC2QIiskiFihWeG6f9h9isZLYa6t4FP24JwdtY6eQ8Q"
+    },
+    "reviews": [
+      {
+        "stars": 5,
+        "text": "ExpenseX is exactly what I needed. Simple, fast, and no creepy tracking. The Excel export feature makes my monthly budgeting a breeze.",
+        "author": "Alex L.",
+        "authorInitial": "AL",
+        "date": "October 2023"
+      },
+      {
+        "stars": 5,
+        "text": "I love that it works completely offline. I travel a lot and can't always rely on data. This app never fails me.",
+        "author": "Maria K.",
+        "authorInitial": "MK",
+        "date": "November 2023"
+      }
+    ],
+    "finalCTATitle": "Start Tracking Securely Today",
+    "finalCTAText": "Download ExpenseX now. Completely free for core features. Take back control of your financial data.",
+    "finalCTAButton": "Download Now",
+    "finalCTAIcon": "download",
+    "finalCTASubtext": "Requires Android 8.0 or later",
+    "privacyPolicyUrl": "/privacy-policy"
+  }
+]
