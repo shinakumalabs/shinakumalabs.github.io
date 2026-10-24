@@ -12,19 +12,34 @@
     "image": "/expensex_logo.svg",
     "initial": "X",
     "version": "v1.0.1",
-    "rating": "4.9/5.0",
-    "googlePlayLink": "#",
+    "googlePlayLink": "https://play.google.com/store/apps/details?id=com.shinakumalabs.ExpenseX",
     "detailLabel": "The Philosophy",
     "headline": "Cloud services are <span class=\"line-through decoration-primary decoration-4 text-charcoal/40\">intrusive</span>.<br/>You need <span class=\"text-accent\">Private Control</span>.",
-    "status": "Production Ready",
+    "status": "Published",
     "platform": "Play Store",
     "platformIcon": "android",
-    "tags": ["ReactNative", "Sqlite", "Privacy"],
+    "tags": [
+      "ReactNative",
+      "Sqlite",
+      "Privacy"
+    ],
     "stats": [
-      { "label": "Offline", "value": "100%" },
-      { "label": "Sync Latency", "value": "0s" },
-      { "label": "Database", "value": "Local" },
-      { "label": "Subscriptions", "value": "0" }
+      {
+        "label": "Offline",
+        "value": "100%"
+      },
+      {
+        "label": "Sync Latency",
+        "value": "0s"
+      },
+      {
+        "label": "Database",
+        "value": "Local"
+      },
+      {
+        "label": "Subscriptions",
+        "value": "0"
+      }
     ],
     "detailedFeatures": [
       {
@@ -80,34 +95,160 @@
       },
       "auditLabel": "Privacy Audit",
       "checks": [
-        { "label": "Internet Permission", "status": "REVOKED", "highlight": true },
-        { "label": "Cloud Sync", "status": "Disabled", "highlight": false },
-        { "label": "Ad Tracking", "status": "None", "highlight": false },
-        { "label": "Data Location", "status": "Local Device", "highlight": false }
+        {
+          "label": "Internet Permission",
+          "status": "REVOKED",
+          "highlight": true
+        },
+        {
+          "label": "Cloud Sync",
+          "status": "Disabled",
+          "highlight": false
+        },
+        {
+          "label": "Ad Tracking",
+          "status": "None",
+          "highlight": false
+        },
+        {
+          "label": "Data Location",
+          "status": "Local Device",
+          "highlight": false
+        }
       ],
       "badge": "https://lh3.googleusercontent.com/aida-public/AB6AXuD1xY1SIHn0zgCFUO9-g82NlWb3CGodyBYMf2qXEE_nV6tSdb6MQhHEM6uM6ITZ-QZ8WSoiNuPVo0M97KPkRdMjqehv91KqW6Zr2-hfgMLsW3i9sCjOjr76prASXMhbyeCCyACiOnePLw0UkztcipRbl1NyGtcpSmnhhi0AeVMIN3u_7tSY0nTQR99pgBdH4qJzW9_tjZWHtciVoSqKxEBkcrA300zvUIcphC2QIiskiFihWeG6f9h9isZLYa6t4FP24JwdtY6eQ8Q"
     },
-    "reviews": [
-      {
-        "stars": 5,
-        "text": "ExpenseX is exactly what I needed. Simple, fast, and no creepy tracking. The Excel export feature makes my monthly budgeting a breeze.",
-        "author": "Alex L.",
-        "authorInitial": "AL",
-        "date": "October 2023"
-      },
-      {
-        "stars": 5,
-        "text": "I love that it works completely offline. I travel a lot and can't always rely on data. This app never fails me.",
-        "author": "Maria K.",
-        "authorInitial": "MK",
-        "date": "November 2023"
-      }
-    ],
     "finalCTATitle": "Start Tracking Securely Today",
-    "finalCTAText": "Download ExpenseX now. Completely free for core features. Take back control of your financial data.",
-    "finalCTAButton": "Download Now",
-    "finalCTAIcon": "download",
+    "finalCTAText": "Get ExpenseX on Google Play. One-time purchase, no subscriptions, no ads, no accounts. Take back control of your financial data.",
+    "finalCTAButton": "Get it on Google Play",
+    "finalCTAIcon": "shop",
     "finalCTASubtext": "Requires Android 8.0 or later",
     "privacyPolicyUrl": "/privacy-policy"
+  },
+  {
+    "id": "pureremote",
+    "name": "PureRemote",
+    "suffix": "",
+    "tagline": "Your phone, your TV, nothing in between. A local-network Android TV remote with no accounts and no cloud.",
+    "category": "Mobile App",
+    "type": "Mobile",
+    "typeLabel": "Android TV Remote",
+    "description": "A free, ad-free remote for Android TV and Google TV that talks directly to your TV over your Wi-Fi.",
+    "detailedDescription": "PureRemote connects your phone straight to your TV over your local network using the Android TV Remote protocol. There are no servers, no accounts, no ads and no analytics. Pair once with a code and the remote is ready.",
+    "image": "/pureremote_logo.svg",
+    "initial": "P",
+    "version": "",
+    "googlePlayLink": "https://play.google.com/store/apps/details?id=com.shinakumalabs.pureremote",
+    "detailLabel": "The Philosophy",
+    "headline": "A remote should not need a <span class=\"line-through decoration-primary decoration-4 text-charcoal/40\">cloud</span>.<br/>It needs a <span class=\"text-accent\">Direct Link</span>.",
+    "status": "Published",
+    "platform": "Play Store",
+    "platformIcon": "android",
+    "tags": [
+      "Vue",
+      "Ionic",
+      "Capacitor",
+      "Privacy"
+    ],
+    "stats": [
+      {
+        "label": "Ads",
+        "value": "0"
+      },
+      {
+        "label": "Accounts",
+        "value": "0"
+      },
+      {
+        "label": "Servers",
+        "value": "0"
+      },
+      {
+        "label": "Price",
+        "value": "Free"
+      }
+    ],
+    "detailedFeatures": [
+      {
+        "title": "Automatic Discovery",
+        "icon": "wifi_find",
+        "text": "PureRemote finds Android TV and Google TV devices on your Wi-Fi automatically. If your router hides a TV, add it by IP address."
+      },
+      {
+        "title": "Simple Pairing",
+        "icon": "pin",
+        "text": "Pair with the code shown on your TV. Your phone is remembered afterwards, so there is no need to pair again each time."
+      },
+      {
+        "title": "D-Pad & Touchpad",
+        "icon": "gamepad",
+        "text": "Switch between a classic D-pad and a swipe-friendly touchpad to move around your TV the way you prefer."
+      },
+      {
+        "title": "Auto Reconnect",
+        "icon": "sync",
+        "text": "Reconnects when you return to the app and follows your TV if its address changes after a router restart."
+      },
+      {
+        "title": "Encrypted Locally",
+        "icon": "enhanced_encryption",
+        "text": "Everything between your phone and TV is encrypted with TLS and stays on your local network."
+      },
+      {
+        "title": "Free & Ad-Free",
+        "icon": "volunteer_activism",
+        "text": "No ads and no paid features. If you like it, an optional one-time tip supports development and unlocks nothing."
+      }
+    ],
+    "securityInfo": {
+      "mainIcon": "gpp_good",
+      "label": "Local Architecture",
+      "headline": "Your Phone.<br/><span class=\"text-gray-500\">Your TV.</span>",
+      "points": [
+        {
+          "icon": "router",
+          "title": "Local Network Only",
+          "text": "The app talks directly to your TV over your Wi-Fi. Pairing data and commands are never sent to the internet."
+        },
+        {
+          "icon": "lock_person",
+          "title": "Private Pairing Key",
+          "text": "The key that identifies your phone is stored in the app's private storage, and Android cloud backup is turned off for the app."
+        }
+      ],
+      "warning": {
+        "title": "Keep Your Phone Locked",
+        "text": "Anyone with your unlocked phone can control the TVs you have paired. Forget a TV in the app, or remove your phone in the TV's settings, to revoke access."
+      },
+      "auditLabel": "Privacy Audit",
+      "checks": [
+        {
+          "label": "Accounts",
+          "status": "None",
+          "highlight": true
+        },
+        {
+          "label": "Analytics & Ads",
+          "status": "None",
+          "highlight": false
+        },
+        {
+          "label": "Traffic",
+          "status": "Local Wi-Fi, TLS",
+          "highlight": false
+        },
+        {
+          "label": "Data Location",
+          "status": "Local Device",
+          "highlight": false
+        }
+      ]
+    },
+    "finalCTATitle": "Turn Your Phone Into a TV Remote",
+    "finalCTAText": "PureRemote is free, with no ads and no accounts. Pair once and take control of your Android TV or Google TV.",
+    "finalCTAButton": "Get it on Google Play",
+    "finalCTAIcon": "shop",
+    "finalCTASubtext": "Requires an Android TV or Google TV on the same Wi-Fi",
+    "privacyPolicyUrl": "/projects/pureremote/privacy"
   }
 ]

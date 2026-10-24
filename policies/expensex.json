@@ -1,0 +1,418 @@
+{
+  "title": "Privacy Policy for ExpenseX",
+  "updated": "October 24, 2026",
+  "intro": "This Privacy Policy describes how ExpenseX (\"we,\" \"us,\" \"our,\" or the \"App\") handles information when you use our mobile application. We are committed to protecting your privacy and being transparent about our data practices.",
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "ExpenseX is a personal expense tracking and budget management application that operates <strong>entirely offline</strong> on your device. We do not collect, transmit, store, or process any of your personal information on external servers. All data you enter into the App remains exclusively on your device under your control."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "id": "information-we-do-not-collect",
+      "title": "Information We Do Not Collect",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "ExpenseX does <strong>not</strong> collect, access, or transmit:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Personal identifiers (name, email, phone number, address)",
+            "Financial account information (bank accounts, credit cards, payment details)",
+            "Location data",
+            "Device identifiers or advertising IDs",
+            "Usage analytics or behavioral data",
+            "Any other personally identifiable information"
+          ]
+        },
+        {
+          "type": "p",
+          "html": "We have no servers, databases, or third-party services that receive your data."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "id": "information-stored-locally-on-your-devic",
+      "title": "Information Stored Locally on Your Device",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "To provide expense tracking and budget management functionality, the App stores data locally on your device, including:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Expense entries and transaction records you create",
+            "Budget categories and limits you configure",
+            "Any data you import into the App"
+          ]
+        },
+        {
+          "type": "p",
+          "html": "<strong>Important:</strong> This data never leaves your device through the App. You maintain full control and ownership of this information."
+        }
+      ],
+      "number": 3
+    },
+    {
+      "id": "import-and-export-functionality",
+      "title": "Import and Export Functionality",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "ExpenseX provides import and export features that allow you to:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Import expense data from external files",
+            "Export your expense data for backup or use in other applications"
+          ]
+        },
+        {
+          "type": "p",
+          "html": "When you use these features, <strong>you are solely responsible</strong> for how the exported data is stored, shared, or transmitted. The App itself does not transmit this data to any external servers or third parties."
+        }
+      ],
+      "number": 4
+    },
+    {
+      "id": "data-retention-and-deletion",
+      "title": "Data Retention and Deletion",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "Since all data is stored locally on your device:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "<strong>Retention:</strong> Your data persists on your device until you delete it within the App or uninstall the App.",
+            "<strong>Deletion:</strong> You may delete individual entries within the App at any time. Uninstalling the App will permanently delete all associated data.",
+            "<strong>Data Loss:</strong> We are not responsible for data loss resulting from app deletion, device factory reset, device damage, or other circumstances. We recommend regularly exporting your data for backup purposes."
+          ]
+        }
+      ],
+      "number": 5
+    },
+    {
+      "id": "children-s-privacy",
+      "title": "Children's Privacy",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "ExpenseX does not knowingly collect personal information from children under 13 years of age (or the applicable age in your jurisdiction). Since the App does not collect any personal information from any users, no special provisions for children's data are required."
+        }
+      ],
+      "number": 6
+    },
+    {
+      "id": "information-for-users-in-the-european-ec",
+      "title": "Information for Users in the European Economic Area (EEA), United Kingdom, and Switzerland — GDPR Compliance",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "If you are located in the European Economic Area, United Kingdom, or Switzerland, the General Data Protection Regulation (GDPR) and equivalent local laws apply to you."
+        },
+        {
+          "type": "h3",
+          "text": "7.1 Data Controller"
+        },
+        {
+          "type": "p",
+          "html": "Since ExpenseX does not collect or process your personal data on external servers, there is no data controller relationship established between us and you for your expense data. You act as the sole controller of your own personal data stored locally on your device."
+        },
+        {
+          "type": "h3",
+          "text": "7.2 Legal Basis for Processing"
+        },
+        {
+          "type": "p",
+          "html": "We do not process your personal data. All data processing occurs locally on your device under your control."
+        },
+        {
+          "type": "h3",
+          "text": "7.3 Your Rights Under GDPR"
+        },
+        {
+          "type": "p",
+          "html": "Although we do not hold any of your personal data, we acknowledge your rights under GDPR, including:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "<strong>Right of Access:</strong> Your data is stored locally and accessible to you at any time through the App.",
+            "<strong>Right to Rectification:</strong> You may edit or correct any data directly within the App.",
+            "<strong>Right to Erasure (\"Right to be Forgotten\"):</strong> You may delete any data within the App or uninstall the App to remove all data.",
+            "<strong>Right to Data Portability:</strong> The export feature allows you to obtain your data in a portable format.",
+            "<strong>Right to Restrict Processing:</strong> You control all processing on your device.",
+            "<strong>Right to Object:</strong> No automated processing or profiling occurs."
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "7.4 International Data Transfers"
+        },
+        {
+          "type": "p",
+          "html": "We do not transfer your data internationally or to any external parties, as no data leaves your device through the App."
+        }
+      ],
+      "number": 7
+    },
+    {
+      "id": "information-for-california-residents-ccp",
+      "title": "Information for California Residents — CCPA and CPRA Compliance",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "If you are a California resident, the California Consumer Privacy Act (CCPA), as amended by the California Privacy Rights Act (CPRA), provides you with specific rights regarding your personal information."
+        },
+        {
+          "type": "h3",
+          "text": "8.1 Categories of Personal Information"
+        },
+        {
+          "type": "p",
+          "html": "Under CCPA/CPRA, \"personal information\" includes information that identifies, relates to, or could reasonably be linked to you or your household."
+        },
+        {
+          "type": "p",
+          "html": "<strong>ExpenseX does not collect, sell, or share any personal information as defined by the CCPA/CPRA.</strong> Specifically:"
+        },
+        {
+          "type": "table",
+          "head": [
+            "Category",
+            "Collected",
+            "Sold",
+            "Shared"
+          ],
+          "rows": [
+            [
+              "Identifiers",
+              "No",
+              "No",
+              "No"
+            ],
+            [
+              "Financial Information",
+              "No",
+              "No",
+              "No"
+            ],
+            [
+              "Commercial Information",
+              "No",
+              "No",
+              "No"
+            ],
+            [
+              "Internet/Network Activity",
+              "No",
+              "No",
+              "No"
+            ],
+            [
+              "Geolocation Data",
+              "No",
+              "No",
+              "No"
+            ],
+            [
+              "Professional/Employment Info",
+              "No",
+              "No",
+              "No"
+            ],
+            [
+              "Education Information",
+              "No",
+              "No",
+              "No"
+            ],
+            [
+              "Inferences",
+              "No",
+              "No",
+              "No"
+            ],
+            [
+              "Sensitive Personal Information",
+              "No",
+              "No",
+              "No"
+            ]
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "8.2 Your Rights Under CCPA/CPRA"
+        },
+        {
+          "type": "p",
+          "html": "As a California resident, you have the following rights:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "<strong>Right to Know:</strong> You have the right to request disclosure of personal information we collect. Since we collect no personal information, there is nothing to disclose.",
+            "<strong>Right to Delete:</strong> You have the right to request deletion of your personal information. All your data is stored locally and can be deleted by you at any time.",
+            "<strong>Right to Correct:</strong> You have the right to correct inaccurate personal information. You may edit all data directly within the App.",
+            "<strong>Right to Opt-Out of Sale/Sharing:</strong> We do not sell or share your personal information.",
+            "<strong>Right to Limit Use of Sensitive Personal Information:</strong> We do not collect sensitive personal information.",
+            "<strong>Right to Non-Discrimination:</strong> We will not discriminate against you for exercising your privacy rights."
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "8.3 Do Not Sell or Share My Personal Information"
+        },
+        {
+          "type": "p",
+          "html": "ExpenseX does <strong>not</strong> sell or share your personal information as defined under CCPA/CPRA. We have not sold or shared personal information in the preceding 12 months."
+        },
+        {
+          "type": "h3",
+          "text": "8.4 Financial Incentives"
+        },
+        {
+          "type": "p",
+          "html": "We do not offer financial incentives related to the collection or retention of personal information."
+        },
+        {
+          "type": "h3",
+          "text": "8.5 Verification"
+        },
+        {
+          "type": "p",
+          "html": "Since we do not collect personal information, we cannot verify your identity for data requests. However, as all data remains on your device, you have direct access to manage it."
+        }
+      ],
+      "number": 8
+    },
+    {
+      "id": "california-online-privacy-protection-act",
+      "title": "California Online Privacy Protection Act (CalOPPA) Compliance",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "In accordance with CalOPPA, we disclose the following:"
+        },
+        {
+          "type": "h3",
+          "text": "9.1 Personally Identifiable Information"
+        },
+        {
+          "type": "p",
+          "html": "We do not collect personally identifiable information from users of this App."
+        },
+        {
+          "type": "h3",
+          "text": "9.2 Third-Party Tracking"
+        },
+        {
+          "type": "p",
+          "html": "We do not allow third parties to collect personally identifiable information about your online activities over time or across different websites or applications."
+        },
+        {
+          "type": "h3",
+          "text": "9.3 Do Not Track Signals"
+        },
+        {
+          "type": "p",
+          "html": "Our App does not track users across third-party websites. The App does not respond to Do Not Track (DNT) signals because no tracking occurs."
+        },
+        {
+          "type": "h3",
+          "text": "9.4 Policy Changes"
+        },
+        {
+          "type": "p",
+          "html": "If we make material changes to this Privacy Policy, we will update the \"Last Updated\" date at the top of this policy. We encourage you to review this policy periodically."
+        }
+      ],
+      "number": 9
+    },
+    {
+      "id": "third-party-services",
+      "title": "Third-Party Services",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "ExpenseX does <strong>not</strong> integrate with, use, or share data with any third-party services, analytics providers, advertising networks, or social media platforms."
+        }
+      ],
+      "number": 10
+    },
+    {
+      "id": "security",
+      "title": "Security",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "While we do not transmit or store your data externally, we encourage you to:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Keep your device secure with a password, PIN, or biometric lock",
+            "Keep your device's operating system updated",
+            "Regularly backup your expense data using the export feature"
+          ]
+        }
+      ],
+      "number": 11
+    },
+    {
+      "id": "changes-to-this-privacy-policy",
+      "title": "Changes to This Privacy Policy",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "We may update this Privacy Policy from time to time. Any changes will be reflected by updating the \"Last Updated\" date at the top of this document. Your continued use of the App after any modifications indicates your acceptance of the updated Privacy Policy."
+        }
+      ],
+      "number": 12
+    },
+    {
+      "id": "contact-us",
+      "title": "Contact Us",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "If you have any questions, concerns, or requests regarding this Privacy Policy or our privacy practices, please contact us at:"
+        },
+        {
+          "type": "p",
+          "html": "<strong>Email:</strong> <a href=\"mailto:shinakumalabs@zohomail.in\" class=\"text-primary hover:underline\">shinakumalabs@zohomail.in</a>"
+        }
+      ],
+      "number": 13
+    },
+    {
+      "id": "consent",
+      "title": "Consent",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "By downloading, installing, and using ExpenseX, you acknowledge that you have read, understood, and agree to this Privacy Policy."
+        },
+        {
+          "type": "p",
+          "html": "<em>This Privacy Policy is effective as of the \"Last Updated\" date listed above.</em>"
+        }
+      ],
+      "number": 14
+    }
+  ]
+}
